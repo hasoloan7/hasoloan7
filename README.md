@@ -52,9 +52,3 @@ Here are some of the projects I have worked on:
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
-
----
-
-*Thank you for visiting my profile!*
-
-<img src="https://your-footer-image-url.com" alt="Footer" width="800" height="200">
