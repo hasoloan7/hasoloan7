@@ -29,7 +29,7 @@ Interested in working as a QA Engineer, have knowledge to create web automation 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://appium.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Appium_logo.svg/1200px-Appium_logo.svg.png" alt="appium" width="40" height="40"/>
+    <img src="https://mobileboxlab.github.io/appium-java-repl/assets/images/logo.svg" alt="appium" width="40" height="40"/>
   </a>
 </p>
 
@@ -43,6 +43,15 @@ Here are some of the projects I have worked on:
 ### 📫 How to reach me
 - Email: [pareanahasoloansilalahi@gmail.com](mailto:pareanahasoloansilalahi@gmail.com)
 
+### 🔗Connect
+<p align="left">
+  <a href="http://www.linkedin.com/in/pareana-hasoloan-silalahi/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/pareana_silalahi/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+</p>
 
 
 ---
