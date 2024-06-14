@@ -28,6 +28,9 @@ Interested in working as a QA Engineer, have knowledge to create web automation 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
+  <a href="https://appium.io/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Appium_logo.svg/1200px-Appium_logo.svg.png" alt="appium" width="40" height="40"/>
+  </a>
 </p>
 
 ### 📂 Projects
@@ -38,7 +41,7 @@ Here are some of the projects I have worked on:
 - [Manual Testing of the API Application RajaOngkir](https://docs.google.com/spreadsheets/d/1Rcm3Y3zZGEV54JgvEBji2WmL2AMygGlDAE1Ddp_TXuk/edit?usp=sharing): RajaOngkir is a website and web service (API) that provides information on shipping costs from various couriers in Indonesia such as POS Indonesia, JNE, TIKI, PCP, ESL, and RPX.
 
 ### 📫 How to reach me
-- Email: [pareanahasoloansilalahi@gmail.com](pareanahasoloansilalahi@gmail.com)
+- Email: [pareanahasoloansilalahi@gmail.com](mailto:pareanahasoloansilalahi@gmail.com)
 
 
 
