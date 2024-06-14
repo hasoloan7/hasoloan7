@@ -32,13 +32,13 @@ Interested in working as a QA Engineer, have knowledge to create web automation 
 
 ### 📂 Projects
 Here are some of the projects I have worked on:
-- [Project 1](https://github.com/yourusername/project1): A brief description of your project.
-- [Project 2](https://github.com/yourusername/project2): A brief description of your project.
-- [Project 3](https://github.com/yourusername/project3): A brief description of your project.
+- [Automated Testing of the API Application KasirAja ](https://github.com/hasoloan7/API-Kasir.git): kasirAja is a POS system to help the sales and purchase process to manage products and can be accessed by multi-users.
+- [Automated Testing of the Web UI Application KasirAja ](https://github.com/hasoloan7/FE-Kasir-Demo.git): kasirAja is a POS system to help the sales and purchase process to manage products and can be accessed by multi-users.
+- [Manual Testing of the Web UI Application KasirAja ](https://docs.google.com/spreadsheets/d/1Y3kNlnHpylPCHDVaXXswueyP1m8pfh9QvsUnVRsavKk/edit?gid=0#gid=0): kasirAja is a POS system to help the sales and purchase process to manage products and can be accessed by multi-users..
+- [Manual Testing of the API Application RajaOngkir](https://docs.google.com/spreadsheets/d/1Rcm3Y3zZGEV54JgvEBji2WmL2AMygGlDAE1Ddp_TXuk/edit?usp=sharing): RajaOngkir is a website and web service (API) that provides information on shipping costs from various couriers in Indonesia such as POS Indonesia, JNE, TIKI, PCP, ESL, and RPX.
 
 ### 📫 How to reach me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourlinkedin/)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- Email: [pareanahasoloansilalahi@gmail.com](pareanahasoloansilalahi@gmail.com)
 
 
 
